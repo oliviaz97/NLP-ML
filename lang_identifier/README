@@ -1,0 +1,4 @@
+MP2 for LING 406 at UIUC - Olivia Zhang
+task: language identifying by applying letter/word bigram model.
+Run the programs individually within the lang_identifier folder. The output of each program is saved in letterLangId.out, wordLangId.out and wordLangId2.out respectively.
+The test.py file is a simple file that tests the accuracy of each model.
