@@ -1,0 +1,5 @@
+The date extractor I wrote is called extract_date, I was able to solve the problem using 7 long regex expressions and 4 concatenated regex expressions.
+The program reads in an input file, and stores each line of the file inside of a list.
+It then matches the regex expressions with each entry of the list using the function .findall() within four for-loops, meanwhile appending the matched result to the end of the list called result.
+Finally it joins together the result list and writes the output into output.txt.
+The program should be able to provide a non-exhaustive but fairly reliable process of date-extracting on a given input. 

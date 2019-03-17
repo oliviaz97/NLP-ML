@@ -1,0 +1,7 @@
+Task:
+Extracting dates from an input file, including fixed dates and holidays, excluding ambiguous dates.
+
+Instructions:
+To run the program in terminal, do "python extract_date.py" providing that python3 is installed on the machine.
+You should be able to see the ouput aka. the dates extracted from the input file in output.txt.
+The python program resides in the folder called extract_date. A sample input input.txt is also provided in the folder.
