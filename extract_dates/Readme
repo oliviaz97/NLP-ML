@@ -1,5 +1,5 @@
 Task:
-Extracting dates from an input file, including fixed dates and holidays, excluding ambiguous dates.
+Using Regex to extract dates from an input file, including fixed dates and holidays, excluding ambiguous dates.
 
 Instructions:
 To run the program in terminal, do "python extract_date.py" providing that python3 is installed on the machine.
