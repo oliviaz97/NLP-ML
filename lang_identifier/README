@@ -1,4 +1,7 @@
-MP2 for LING 406 at UIUC - Olivia Zhang
-task: language identifying by applying letter/word bigram model.
-Run the programs individually within the lang_identifier folder. The output of each program is saved in letterLangId.out, wordLangId.out and wordLangId2.out respectively.
-The test.py file is a simple file that tests the accuracy of each model.
+Task:
+Language identifying for English, French and Italian by applying letter/word bigram model. Specifically, the word bigram model utilizes add-one/Laplace smoothing to cope with words unseen in the training corpus.
+
+Instructions:
+Run the programs individually within the lang_identifier folder. The output of each program is saved in letterLangId.out and wordLangId.out respectively.
+The test.py file is a simple file that calculates the accuracy of each model.
+The testing sub-folder provides a sample test consisting sentences in English/French/Italian.
