@@ -1,5 +1,5 @@
 Task:
-Language identifying for English, French and Italian by applying letter/word bigram model. Specifically, the word bigram model utilizes add-one/Laplace smoothing to cope with words unseen in the training corpus.
+Language identifier for English, French and Italian by applying letter/word bigram model. Specifically, the word bigram model utilizes add-one/Laplace smoothing to cope with words unseen in the training corpus.
 
 Instructions:
 Run the programs individually within the lang_identifier folder. The output of each program is saved in letterLangId.out and wordLangId.out respectively.
